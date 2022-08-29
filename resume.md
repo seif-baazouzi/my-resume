@@ -46,6 +46,7 @@
 ### PROJECTS
 
 - **Eshop**: https://github.com/seif-baazouzi/eshop-webapp
+- **SEO Dashboard**: https://github.com/seif-baazouzi/eshop-seo-dashboard
 - **Statistics**: https://github.com/seif-baazouzi/statistics-webapp
 - **Multiplayer Tic Tac Toe game**: https://github.com/seif-baazouzi/tic-tac-toe
 
